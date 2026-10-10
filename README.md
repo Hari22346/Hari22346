@@ -9,7 +9,9 @@
 </a>
 
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Hari22346&label=Profile%20Views&color=2c5364&style=flat)
+
 ![Followers](https://img.shields.io/github/followers/Hari22346?label=Followers&style=flat&color=2c5364)
 
 </div>
